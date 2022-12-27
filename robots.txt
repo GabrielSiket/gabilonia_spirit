@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://gabilonia-spirit.herokuapp.com/sitemap.xml
